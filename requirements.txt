@@ -1,0 +1,5 @@
+python-telegram-bot
+pyTelegramBotAPI
+beautifulsoup4
+docx
+python-docx
